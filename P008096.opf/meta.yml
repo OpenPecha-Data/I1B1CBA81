@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG24060
   title: བློ་བཟང་དགོངས་རྒྱན་མུ་ཏིག་ཕྲེང་མཛེས་དེབ་སོ་དྲུག་པ།
-  volume: ''
+  volume:
+    dccabdd2ec674e94af893c2900102216:
+      image_group_id: I1KG24225
+      title: Volume 1 of blo bzang dgongs rgyan mu tig phreng mdzed deb so drug pa/
+      volume_number: 1
+      total_pages: 280
   author: ''
+ebook_metadata:
+  title: བློ་བཟང་དགོངས་རྒྱན་མུ་ཏིག་ཕྲེང་མཛེས་དེབ་སོ་དྲུག་པ།
+  author: ''
+  sku: P008096
+  cover: cover.jpg
+  layers:
+  - pagination
